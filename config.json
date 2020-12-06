@@ -1,10 +1,10 @@
 {
-	"token": "NzgwMDY5NzgwOTk1NDQwNjUw.X7pumA.hu0xV9CaYQsY3scrQIX1QQCki34",
+	"token": "Your Token Here",
 	"servers": [
-		"785030501659967501",
+		"ID 1st Server",
 		"ID 2ND SERVER"
 	],
-	"roleName": "gANDU",
+	"roleName": "Role Name",
 	"colors": 12,
 	"speed": 60000,
 	"logging": true
